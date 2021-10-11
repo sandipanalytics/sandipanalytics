@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sandip
+- 👀 I’m interested in learning currenct practices in AI ML space
+- 📫 You can reach me at sandip.analytics@gmail.com
